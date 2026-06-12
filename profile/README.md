@@ -8,6 +8,8 @@
   SPDX-License-Identifier: EPL-2.0
 -->
 # OSCAT - Open Source Community for Automation Technology 👋
+<img width="3333" height="304" alt="oscat_logoleiste" src="https://github.com/user-attachments/assets/f6f1fd89-2ca6-438a-9637-c38cd724393d" />
+
 
 **[DE]** Willkommen bei **OSCAT**! Wir sind eine offene Gemeinschaft, die hochwertige Open-Source-Funktionsbibliotheken für die industrielle und gebäudetechnische Automation (IEC 61131-3) entwickelt.
 
