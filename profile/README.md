@@ -56,5 +56,7 @@
 
 <p align="center">
   <small>Copyright © 2026 Hans Mühlbauer, Franz Höpfinger and others.</small><br>
-  <small>OSCAT - Open Source Community for Automation Technology</small>
+  <small>OSCAT - Open Source Community for Automation Technology</small><br>
+  <small>OSCAT® ist eine eingetragene Marke der Eclipse Foundation.</small><br>
+  <small>Eclipse Foundation AISBL, Rond Point Schuman 11, 1040 Brüssel, Belgien.</small>
 </p>
