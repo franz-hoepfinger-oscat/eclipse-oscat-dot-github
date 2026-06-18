@@ -40,9 +40,16 @@
 **[EN]** We welcome your support! Whether through bug reports, code contributions, or improvements to the documentation – every bit of help is appreciated.
 
 - **Source Code:** [github.com/eclipse-oscat](https://github.com/eclipse-oscat)
-- **Community:** [oscat.de](https://www.oscat.de/)
+- **Community:** [oscat.discourse.group](https://oscat.discourse.group/)
 - **Eclipse Foundation:** [projects.eclipse.org/projects/iot.oscat](https://projects.eclipse.org/projects/iot.oscat)
+
+### Externe Projekte & Portierungen / External Projects & Ports
+
 - **AixOCAT:** [github.com/RWTH-EBC/AixOCAT](https://github.com/RWTH-EBC/AixOCAT)
+- **brOscatLib:** [github.com/tkucic/brOscatLib](https://github.com/tkucic/brOscatLib)
+- **TcOscatBasic:** [github.com/mihaiginta/TcOscatBasic](https://github.com/mihaiginta/TcOscatBasic)
+
+
 
 ---
 
