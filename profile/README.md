@@ -59,6 +59,12 @@
 
 **[EN]** All OSCAT libraries and documentation are available under the **[Eclipse Public License 2.0 (EPL-2.0)](https://www.eclipse.org/legal/epl-2.0/)**.
 
+
+## Code of Conduct
+🤝 This project is governed by the Eclipse Foundation [Code of Conduct](https://github.com/eclipse-platform/.github/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
+Please report any unacceptable behavior to [conduct@eclipse-foundation.org](mailto:conduct@eclipse-foundation.org).
+
+
 ---
 
 <p align="center">
